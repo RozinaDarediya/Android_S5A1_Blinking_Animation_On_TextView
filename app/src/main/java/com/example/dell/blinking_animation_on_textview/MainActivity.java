@@ -12,6 +12,11 @@ import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.TextView;
 
+        /*
+
+        Show Blinking animation on TextView
+         */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -32,4 +37,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+
 }
